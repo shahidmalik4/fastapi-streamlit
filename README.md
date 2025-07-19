@@ -109,11 +109,7 @@ Runs at: `http://localhost:8501`
 
 ---
 
----
-
-## 👨‍💻 Author
-
-Built using:
+## 👨‍💻 Built using:
 
 - [FastAPI](https://fastapi.tiangolo.com/)  
 - [Streamlit](https://streamlit.io/)  
