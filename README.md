@@ -16,7 +16,7 @@ This is a full-stack **real-time cryptocurrency tracker** built with:
 ✅ Real-time price & market cap via WebSocket  
 ✅ Live 24h change with 🔴/🟢 indicators  
 ✅ Display of absolute price change  
-✅ Currency selector (USD, EUR, INR, PKR, etc.)  
+✅ Currency selector (USD, EUR, PKR, etc.)  
 ✅ Sort by price, market cap, change %  
 ✅ Interactive 30-day historical line chart  
 ✅ Optimized with API response caching  
