@@ -28,18 +28,19 @@ This is a full-stack **real-time cryptocurrency tracker** built with:
 Install dependencies with:
 
 ```bash
-pip install fastapi uvicorn httpx streamlit pandas plotly
+pip install -r `requirements.txt`
 ```
 
 Optional: create a `requirements.txt`:
 
 ```
-fastapi
-uvicorn
-httpx
-streamlit
-pandas
-plotly
+fastapi==0.110.0
+uvicorn==0.29.0
+httpx==0.27.0
+streamlit==1.35.0
+pandas==2.2.2
+plotly==5.22.0
+python-dotenv==1.0.1
 ```
 
 ---
