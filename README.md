@@ -31,8 +31,6 @@ Install dependencies with:
 pip install -r `requirements.txt`
 ```
 
-Optional: create a `requirements.txt`:
-
 ```
 fastapi==0.110.0
 uvicorn==0.29.0
@@ -110,14 +108,6 @@ Runs at: `http://localhost:8501`
 - Ensures performance and stability for many users  
 
 ---
-
-## 🌟 Future Improvements
-
-- Multi-day chart options (7D, 90D, 1Y)  
-- Search/autocomplete for any coin  
-- Portfolio tracker & wallet simulator  
-- Backend deployment (Fly.io / Railway)  
-- Streamlit hosting (Streamlit Cloud)  
 
 ---
 
